@@ -15,7 +15,7 @@ def Game(arcade):
     background.fill(grey,(0,0,800,800))
     arcade.initBackground(background)
 
-      alive = True
+    alive = True
     
     while alive:
         arcade.getEvents()
